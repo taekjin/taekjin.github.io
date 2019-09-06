@@ -20,5 +20,5 @@ print_hi('Tom')
 해당내용에 대한 질문은 [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
-[taekjin-gh]:   https://github.com/taekjin
+[taekjin-github]:   https://github.com/taekjin
 [jekyll-talk]: https://talk.jekyllrb.com/
