@@ -15,7 +15,7 @@ print_hi('Tom')
 
 문서참고는 [Jekyll docs][jekyll-docs]
 
-깃허브 주소는 [Taekjin’s GitHub repo][taekjin-github]
+깃허브 주소는 [깃랩][taekjin-github]
 
 해당내용에 대한 질문은 [Jekyll Talk][jekyll-talk].
 
