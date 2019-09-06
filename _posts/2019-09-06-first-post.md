@@ -13,14 +13,10 @@ def print_hi(name):
 print_hi('Tom')
 ```
 
-```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-```
-
 문서참고는 [Jekyll docs][jekyll-docs]
+
 깃허브 주소는 [Taekjin’s GitHub repo][taekjin-github]
+
 해당내용에 대한 질문은 [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
