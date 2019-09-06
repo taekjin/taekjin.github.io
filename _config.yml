@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Taekjin"
+title                    : "Taekjin's logs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Taekjin"
-description              : "Taekjin's git blog"
+description              : "Taekjin's logs"
 url                      : "https://taekjin.github.io"
 baseurl                  : ""
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Taekjin Jun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "저는 **노력형** 인간입니다."
+  bio              : "이곳은 **간단한** 기록공간"
   location         : "Republic of Korea"
   email            :
   links:
