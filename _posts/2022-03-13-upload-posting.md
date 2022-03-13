@@ -3,8 +3,7 @@ title:  "블로그 포스팅하는 방법"
 excerpt: "블로그를 포스팅하는 방법을 적어두어 나중에 참고 하려고 한다. 에디터는 Visual Studio code 사용! 하고 올리기전에 로컬에서 확인도 해보자"
 
 categories:
-  - Blog
-  - Taekjin
+  - blog
 tags:
   - [Blog, jekyll, Github, Git]
 
