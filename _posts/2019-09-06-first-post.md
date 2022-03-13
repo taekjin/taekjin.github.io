@@ -1,7 +1,9 @@
 ---
 title: "첫기록!"
 date: 2019-09-06 19:23:00 +0900
-categories: taekjin common
+categories:
+  - taekjin
+  - blog
 ---
 게시물은 `_posts` 디렉토리에서 변경 후 리빌드. 많은 방법으로 리빌드 할 수 있지만, 가장 보편적인 방법은 `jekyll serve`, 
 
